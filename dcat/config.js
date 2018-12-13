@@ -1,7 +1,6 @@
 var respecConfig = {
 //	preProcess: [dfn_index],
     specStatus: "ED",
-    errata: "https://www.w3.org/2017/dxwg/wiki/Main_Page",
     shortName: "vocab-dcat-2",
     canonicalURI: "TR",
     prevRecURI:           "https://www.w3.org/TR/vocab-dcat/",
@@ -59,6 +58,7 @@ var respecConfig = {
     lint: "false",
     github: "https://github.com/w3c/dxwg/issues/",
     issueBase: "https://github.com/w3c/dxwg/issues/",
+//    errata: "https://www.w3.org/2017/dxwg/wiki/Main_Page", Respec will provide appropriate text when the url resolves - for REQ status
     localBiblio: {
        "SCHEMA-ORG" : {
         href : "http://schema.org/",
