@@ -1,7 +1,7 @@
 var respecConfig = {
 //	preProcess: [dfn_index],
     specStatus: "REC",
-    errata: "https://www.w3.org/place",
+    errata: "https://www.w3.org/2017/dxwg/wiki/Main_Page",
     shortName: "vocab-dcat-2",
     canonicalURI: "TR",
     prevRecURI:           "https://www.w3.org/TR/vocab-dcat/",
