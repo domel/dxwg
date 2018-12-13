@@ -1,6 +1,6 @@
 var respecConfig = {
 //	preProcess: [dfn_index],
-    specStatus: "ED",
+    specStatus: "REC",
     errata: "https://www.w3.org/place",
     shortName: "vocab-dcat-2",
     canonicalURI: "TR",
